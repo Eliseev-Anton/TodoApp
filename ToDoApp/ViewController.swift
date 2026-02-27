@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  ToDoApp
+//  AppToDo
 //
-//  Created by Антон Елисеев on 28.02.2026.
+//  Created by Антон Елисеев on 26.02.2026.
 //
 
 import UIKit
